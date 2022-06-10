@@ -1,4 +1,4 @@
-# A collection of my favourite open source samples
+# A collection of my favourite open source iOS game projects
 
 Great for experimenting with and using as test bed apps.
  
